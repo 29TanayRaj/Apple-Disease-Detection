@@ -13,6 +13,6 @@
              **Trainable parameters**: 3,830,468 (14.61 MB)
              **Non-trainable parameters**: 1,088 (4.25 KB)
 - Model was trained over **7.7K images** of **PlantVillage Dataset**, and validation was done over **1.7K images**. Further testing on unseen **196 images** was done by the model.
-- Best Weights for the model was selected using the keras callback **model checkpoint**.
+- Best weights for the model was selected using the keras callback **model checkpoint**.
 - Model showed **99.6%** accuarcy for the **training data**, **99%** accuracy for the **validation data** and **98%** accuarcuy for the **testing data**.
-- 
+
