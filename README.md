@@ -5,7 +5,7 @@
 
 **Purpose**: To reduce the economic loss economic loss beared by farmers due to apple plant diseases.
 
-**Approch**:Periodic images of the leaves can be taken, can be processed using a **CNN Model** which can classify if the leaves of the tree are healthy or which lind of disease they are having. 
+**Approch**:Periodic images of the leaves can be taken, can be processed using a **CNN Model** which can classify if the leaves of the tree are healthy or which type of disease they are have. 
 
 - Apple leaf images form the **PlantVillage Dataset** dataset was used. Dataset link - https://www.kaggle.com/datasets/tushar5harma/plant-village-dataset-updated/data
 - A **sequential CNN model** was build.
