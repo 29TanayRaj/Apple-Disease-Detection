@@ -18,4 +18,4 @@
 
 **Project Document** - Jupyter Notebook
 
-**Libraries Used** - Tensorflow, Keras, KerasTuner, Pandas, Numpy, matplotlib and pandas
+**Libraries Used** - Tensorflow, Keras, Pandas, Numpy, matplotlib and pandas
