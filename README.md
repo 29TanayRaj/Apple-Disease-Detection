@@ -1,4 +1,4 @@
-**Project**: **Apple Fruit Disease Detection**: Detecting type of disease for apple leaves
+# **Project**: **Apple Fruit Disease Detection**: Detecting type of disease for apple leaves
 
 **Problem**: Each year, diseases like 'apple scab', 'apple rot', and 'cedar apple rust' etc. damage apple trees, reduce fruit yields, compromise fruit quality, and threaten the economic viability of apple orchards.
             Additionally, they can lead to increased reliance on pesticides, environmental degradation, and challenges in maintaining sustainable agricultural practices.
