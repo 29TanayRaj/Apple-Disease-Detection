@@ -16,3 +16,6 @@
 - Best weights for the model was selected using the keras callback **model checkpoint**.
 - Model showed **99.6%** accuarcy for the **training data**, **99%** accuracy for the **validation data** and **98%** accuarcuy for the **testing data**.
 
+**Project Document** - Jupyter Notebook
+
+**Libraries Used** - Tensorflow, Keras, KerasTuner, Pandas, Numpy, matplotlib and pandas
