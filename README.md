@@ -1,11 +1,11 @@
-**Project**: **Apple Fruit Disease Detection**
+**Project**: **Apple Fruit Disease Detection**: Detecting type of disease for apple leaves
 
 **Problem**: Each year, diseases like 'apple scab', 'apple rot', and 'cedar apple rust' etc. damage apple trees, reduce fruit yields, compromise fruit quality, and threaten the economic viability of apple orchards.
             Additionally, they can lead to increased reliance on pesticides, environmental degradation, and challenges in maintaining sustainable agricultural practices.
-            
-**Economic Impact**: 
 
-**Approch**: An early detection system can be vital for this. Periodic images of the leaves can be taken, can be processed using a CNN model which can classify if the leaves of the tree are healthy or which lind of disease they are having. 
+**Purpose**: To reduce the economic loss economic loss beared by farmers due to apple plant diseases.
+
+**Approch**:Periodic images of the leaves can be taken, can be processed using a **CNN Model** which can classify if the leaves of the tree are healthy or which lind of disease they are having. 
 
 - Apple leaf images form the **PlantVillage Dataset** dataset was used. Dataset link - https://www.kaggle.com/datasets/tushar5harma/plant-village-dataset-updated/data
 - A **sequential CNN model** was build.
